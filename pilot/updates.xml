@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='nmiknnnelhfiabbcogmhlnplnjgblkcd'>
-    <updatecheck codebase='https://heiscobar.github.io/qoets-veilingtool-updates/pilot/veilingtool-1.0.15.crx' version='1.0.15' hash_sha256='9d027b8c59468a7db40e527eacd56ade69aea9de0730586a4af5f484663d0578' />
+    <updatecheck codebase='https://heiscobar.github.io/qoets-veilingtool-updates/pilot/veilingtool-1.0.16.crx' version='1.0.16' hash_sha256='fac1c0e1eb1df99a530aa07be742bd16a60eda3094d9f2950ef56f6529f42b39' />
   </app>
 </gupdate>
